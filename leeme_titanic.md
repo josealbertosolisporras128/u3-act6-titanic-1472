@@ -1,3 +1,7 @@
+## Caso 1: Identificación de problemas (Titanic)
+Situación: Tenemos información de pasajeros. Antes de predecir quién sobrevivió, debemos auditar la calidad de los datos.
+![alt text](image-9.png)
+
 ## 1. vista previa de datos
 ![alt text](image-1.png)
 
